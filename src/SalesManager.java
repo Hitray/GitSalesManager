@@ -1,18 +1,14 @@
 public class SalesManager {
-    protected long[] sales;
-
+    protected int[] sales;
 
 
     public SalesManager(int[] sales) {
-
-    public SalesManager(long[] sales) {
- longer
         this.sales = sales;
     }
 
-    public long max() {
-        long max = -1;
-        for (long sale : sales) {
+    public int max() {
+        int max = -1;
+        for (int sale : sales) {
             if (sale > max) {
                 max = sale;
             }
