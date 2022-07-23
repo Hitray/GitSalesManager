@@ -1,12 +1,12 @@
 public class SalesManager {
     protected long[] sales;
 
-<<<<<<< HEAD
+
 
     public SalesManager(int[] sales) {
-=======
+
     public SalesManager(long[] sales) {
->>>>>>> longer
+ longer
         this.sales = sales;
     }
 
