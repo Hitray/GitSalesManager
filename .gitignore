@@ -1,3 +1,47 @@
+<<<<<<< HEAD
 /.idea/
 *.iml
 /out/
+=======
+<<<<<<< HEAD
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.idea/
+
+out
+GitSalesManager.iml
+=======
+/.idea/
+*.iml
+/out/
+.idea/workspace.xml
+>>>>>>> 15a9f80b4d69d74f2b269c998c55480773939761
+/.idea/
+>>>>>>> 7f421c2eb0db8b4a3e3a4aab013c96a1b47061e7
