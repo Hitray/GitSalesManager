@@ -1,5 +1,6 @@
-/.idea/
+
 *.iml
 /out/
 workspace.xml
 GitSalesManager.iml
+.idea
